@@ -1,1 +1,7 @@
-# The-Code-Crafters
+
+## Richard Phiri
+
+**Student ID:** 2410401  
+**Role:** Team Member  
+**Bio:** I'm a student learning software development and excited to collaborate on this Git project with my team.  
+**GitHub:** [Richard Phiri](https://github.com/Richardphiri1)
